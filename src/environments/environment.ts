@@ -3,6 +3,7 @@
 // The list of file replacements can be found in `angular.json`.
 
 export const environment = {
+  apiLocal: 'http://localhost:4200/assets/server-json',
   production: false
 };
 
